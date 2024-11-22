@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Rasjhekhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://78.media.tumblr.com/838298cec7100da1c7da766fc4b27f4d/tumblr_oavwmkIcyq1sznfdio1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitrajshekhar&label=Profile%20views&color=0e75b6&style=flat" alt="rohitrajshekhar" /> </p>
 
