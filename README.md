@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Rasjhekhar</h1>
+<h1 align="center">Hi 👋, I'm Rohit Rajshekhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://78.media.tumblr.com/838298cec7100da1c7da766fc4b27f4d/tumblr_oavwmkIcyq1sznfdio1_500.gif">
 
