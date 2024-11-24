@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/RohitRajShekhar/RohitRajShekhar/blob/main/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
 <h1 align="center">Hi 👋, I'm Rohit Rajshekhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://78.media.tumblr.com/838298cec7100da1c7da766fc4b27f4d/tumblr_oavwmkIcyq1sznfdio1_500.gif">
